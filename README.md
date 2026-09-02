@@ -1,6 +1,6 @@
 # Local TV Remote Privacy Policy
 
-Public privacy-policy site for the Local TV Remote Android application.
+Public privacy-policy site for the Local TV Remote Android and iPhone applications.
 
 Published at:
 
